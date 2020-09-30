@@ -2,4 +2,8 @@ rtest1 1st in remote
 2nd for local
 3rd from local
 4th from remote
-6th from local
+<<<<<<< HEAD
+
+=======
+5th from remote - this has to be removed in local
+>>>>>>> 3dc4a50fad0073b7ccfb5711a45390116f64448a
